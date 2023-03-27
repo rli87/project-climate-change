@@ -4,7 +4,7 @@
 Due to data privacy restriction, the csv file cannot be shared. I would recommend going to https://gaez.fao.org/ for data details. 
 #### Folder/File Instructions
 1. This is a coding and research writing demonstration
-2. Final paper:  "Project1_final.pdf" 
+2. Final paper:  "paper_ml.pdf" 
 3. Final code (python): "project1_code.ipynb" 
 
 The .ipynb file has three key subsections: summary statistics, PCA, Neural Networks, and LASSO regression.
