@@ -3,8 +3,9 @@
 #### Note
 Due to data privacy restriction, the csv file cannot be shared. I would recommend going to https://gaez.fao.org/ for data details. 
 #### Folder/File Instructions
-1. This is a coding and research ability demonstration
-2. Final draft: the "project1_code.ipynb" file and "Project1_final.pdf" file are final papers and final codes for grading
+1. This is a coding and research writing demonstration
+2. Final paper:  "Project1_final.pdf" 
+3. Final code (python): "project1_code.ipynb" 
 
 The .ipynb file has three key subsections: summary statistics, PCA, Neural Networks, and LASSO regression.
 1. The first section cleans the dataset by dropping 13 grid cell observations that do not have measurements on population density, and selectively filter out the most econometrically-feasible independent variables following the working paper by Henderson, Storeygard, and Weil (2022). It also renames the variables. The reasons for dropping certain variables are well-explained in Jupyter documentation.
